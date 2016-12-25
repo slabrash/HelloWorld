@@ -7,5 +7,6 @@ public class HelloWorld {
 
         System.out.println("Hello World!");
         System.out.println("Hello There");
+        System.out.println("Bye");
     }
 }
